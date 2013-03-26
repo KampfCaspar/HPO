@@ -1,0 +1,17 @@
+{
+	"name": "KampfCaspar/HPO",
+	"license": "GPL-3.0+",
+	"require": {
+		"php": ">=5.4"
+	},
+	"autoload": {
+		"psr-0": {
+			"HPO": "php"
+		}
+	},
+	"extra": {
+		"branch-alias": {
+			"dev-master": "1.0.x-dev"
+		}
+	}
+}
